@@ -1,1 +1,3 @@
 # niri
+
+My Niri Config :)
